@@ -1,8 +1,10 @@
 import json
+from pathlib import Path
+import sys
 import plotly.graph_objects as go
 
 # read file
-with open('../base_style.json', 'r') as f:
+with open(Path(sys.prefix, 'etc/oistyle/base_style.json'), 'r') as f:
     data=f.read()
 base_style = json.loads(data)
 colors = base_style["colors"]
