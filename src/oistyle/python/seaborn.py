@@ -3,8 +3,6 @@ from pathlib import Path
 import sys
 import seaborn as sns
 
-sns.axes_style()
-
 # read file
 with open(Path(sys.prefix, 'etc/oistyle/base_style.json'), 'r') as f:
     data=f.read()
