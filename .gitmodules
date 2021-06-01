@@ -1,0 +1,6 @@
+[submodule "oistyle-python"]
+	path = oistyle-python
+	url = https://github.com/jbosga-ams/oistyle-python
+[submodule "oistyler"]
+	path = oistyler
+	url = https://github.com/jbosga-ams/oistyler
