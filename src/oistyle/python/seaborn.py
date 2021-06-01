@@ -1,7 +1,6 @@
 import json
 from pathlib import Path
 import sys
-import seaborn as sns
 
 # read file
 with open(Path(sys.prefix, 'etc/oistyle/base_style.json'), 'r') as f:
