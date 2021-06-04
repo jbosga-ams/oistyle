@@ -1,0 +1,16 @@
+{"colors":{
+        "darkblue_lightblue_gradient_5": ["#004699","#00a0e6", "#71BDEE", "#B1D9F5", "#E5F2FC"],
+        "red_green_gradient_7": ["#FF0000","#ff9100", "#F6B400", "#FFF498", "#B4E600", "#5ABD00", "#00A03C"],
+        "red_green_gradient_5": ["#FF0000","#F6B400", "#FFF498", "#B4E600", "#00A03C"],
+        "rainbow_9": ["#FF0000", "#FFE600", "#FF9100", "#E60082", "#A00078", "#004699", "#00A0E6", "#00A03C", "#BED200"],
+        "black_white_gradient_5": ["#000000", "#787878", "#BEBEBE", "#E8E8E8", "#FFFFFF"],
+        "male_female": ["#00A0E6", "#FFBBF6"],
+        "unknown":["#787878"]
+    },
+    "font": "Corbel",
+    "font_size": 15,
+    "plot_bgcolor": "#FFFFFF",
+    "gridline_color": "#E8E8E8",
+    "gridline_width":0.75
+
+}
