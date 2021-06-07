@@ -41,10 +41,13 @@ __Note for Linux users__: make sure you have the Corbel font installed. You can 
 
 ## Contributing
 Contributing to this styling library is highly encouraged. 
-If you'd like to contribute in one of the languages already present here, navigate to the relevant submodule repository and make a pull request there. If your preferred framework/language isn't here yet, feel free to make a new repository and build it yourself. 
+If you'd like to contribute in one of the languages already present here, navigate to the relevant submodule repository ([python](https://github.com/jbosga-ams/oistyle-python), [R](https://github.com/jbosga-ams/oistyler) and make a pull request there. If your preferred framework/language isn't here yet, feel free to make a new repository and build it yourself. 
 
 The only request is to use the `base_style.json` file provided here to ensure styling consistency between languages. For now, the way to go is to load the json directly from its url into your own library. This makes sure it's loaded whenever your library is imported by a user, which ensures the styling stays up to date. 
 
 Be sure to get in touch with the maintainers of `oistyle` when you've made your implementation so that we can add your repo as a submodule.
 
 Want to get started with contributing, but don't feel like taking on a whole library by yourself? Check out the issue pages of the submodule repositories!
+
+## Maintainers
+Jorren Bosga - j.bosga@amsterdam.nl
